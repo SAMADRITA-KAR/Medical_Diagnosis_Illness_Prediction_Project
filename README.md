@@ -1,10 +1,10 @@
 # Medical_Diagnosis_Illness_Prediction_Project
 # Disease Prediction using Machine Learning
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SAMADRITA-KAR/disease-prediction)
-![GitHub contributors](https://img.shields.io/github/contributors/SAMADRITA-KAR/disease-prediction)
-![GitHub stars](https://img.shields.io/github/stars/SAMADRITA-KAR/disease-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/SAMADRITA-KAR/disease-prediction?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Medical_Diagnosis_Illness_Prediction_Project/disease-prediction)
+![GitHub contributors](https://img.shields.io/github/contributors/Medical_Diagnosis_Illness_Prediction_Project/disease-prediction)
+![GitHub stars](https://img.shields.io/github/stars/Medical_Diagnosis_Illness_Prediction_Project/disease-prediction?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Medical_Diagnosis_Illness_Prediction_Project/disease-prediction?style=social)
 
 This repository contains a machine learning project that predicts diseases based on symptoms. It utilizes three different classifiers (SVM, Naive Bayes, and Random Forest) to provide accurate disease predictions.
 
