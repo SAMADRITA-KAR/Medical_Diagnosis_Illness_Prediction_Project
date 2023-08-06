@@ -57,7 +57,7 @@ Fork the repository.
 
 ## Author
 
-[Samadrita Kar]
+### [Samadrita Kar]
 
 - GitHub: [@Samadrita_Kar](https://github.com/SAMADRITA-KAR)
 
