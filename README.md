@@ -60,7 +60,6 @@ Fork the repository.
 [Samadrita Kar]
 
 - GitHub: [@Samadrita_Kar](https://github.com/SAMADRITA-KAR)
-- LinkedIn: [Samadrita Kar](https://www.linkedin.com/in/samadrita-kar-17a5861b0/)
 
 If you find this project helpful or use it in your work, I'd appreciate a shoutout or a star ⭐️ on GitHub.
 
