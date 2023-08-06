@@ -11,8 +11,7 @@ This repository contains a machine learning project that predicts diseases based
 - [Features](#features)
 - [Documentation](#documentation)
 - [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Author](#author)
 
 ## Introduction
 
